@@ -48,7 +48,6 @@ Reich's Theory of Everything: "A theory is a wild goose chase, a waste of time a
 Rice's Law: "The more you try to predict the future, the less it will happen"
 Robber's Cave Theorem: "For any one group size, the solution group is the size that allows the existence of an "outside group," i.e., an empty solution group that is as large as you need to make the solution nonempty."
 Pareto Principle: "80% of the food in this room is not going to go bad."
-## Introduction to Data Structures
 Pareto Principle: "The word 'fair' is an oxymoron; it only describes an equal distribution of profits among the participating partners."
 Pareto Principle: "It is better to be lucky than good"
 Perpetual Motion: "It is impossible for the sun to stay in the sky for ever"
@@ -108,9 +107,6 @@ Prisoner's dilemma: "do not attack enemy"
 Post hoc ergo propter hoc: "if something happens after that, it must be because of that"
 Poverty of the evidence: "There is no real evidence that this effect was caused by that"
 Principle of parsimony: "Everything should be made as simple as possible, but not simpler."
-Principle of least squares:
-
-"In a large group of data, you can reduce the number of variables by taking the first k to the power of n, where n is the number of variables, by a large margin"
 Principle of least effort: "A good plan with few or no moving parts is far more likely to be better than a good plan with many or many moving parts."
 Principle of least deviation: "A small difference in plans, no matter how insignificant, is often critical to a good plan."
 Procrustean principle: "the things you can't change, you should never change."
@@ -166,7 +162,6 @@ Principle of Least Power: "the best-behaved system is one that requires the leas
 The Principle of Non-Contradiction: "it is always wrong to assert something if it is not true"
 Pavlovian Rule: "Any dog that barks, barks at the moon."
 Peirce's law: "Every word has two meanings; it is always possible to say more about a thing than the thing itself."
-Reality Is God's Forfeit: "If God is not to be feared, then man must be as well." - A.W. Toomer
 Rugged Landscapes: "the land is not merely flat or mountainous; it is also rugged"
 The Law of Large Numbers: "If you wait long enough, the number of things will have the same characteristics as the number of people who are doing the waiting."
 The Law of Comparables: "If two items were made the same, people would compare them to each other to see which one is cheaper."
@@ -198,14 +193,12 @@ Theory of mind: "the ability to predict and understand other people's mental sta
 Parseval's Identity Theorem: "only a finite proportion of the waveform of a wavepacket can actually be measured."
 Quantum Entanglement: "In all respects except time, all the particles involved are the same."
 Partial Order: "Any one or more of the elements in an equation can change the solution."
-Rousseau's Law: "Man will never undergo total political transformation until he abolishes religion and becomes a believer"
 Sutherland's Law: "No project is too small, no project is too large, and no project is too late"
 Popper's Fallacy: "The most promising theory of everything is wrong."
 Popper's Law: "an experiment will either prove you wrong or you will prove you right"
 Principle of Indifference: "anything which does not affect the interests of the community is not worth discussing"
 Principle of Reciprocity: "everything that gives rise to something gives rise to the negation of everything that came before it"
 Power Distance: "people (and hence organizations) that have the strongest will are normally powerful"
-[1] http://www.joelonsoftware.com/articles/fog0000000069.html
 Poincare's Principle: "everything around us has a momentum"
 Pascal's Principle:"anything of value can be achieved only if it is done by someone who knows how to do it"
 Principle of least action: "the only action worth doing is the one that makes the least interference with the present moment"
@@ -248,7 +241,6 @@ Rauch's Law: "A single thing can make a difference to a system as a whole that i
 Random Walk: "The next position will be selected at random."
 Rule of three: "When three conditions are met, a fourth one is usually superfluous." [This rule of thumb is often followed when trying to design efficient systems.]
 Social Security: "a failure by Congress to extend Social Security in the next 10 years would force 200 million people into poverty. It seems unlikely, but if so, we would actually have solved a problem which was caused by Congress"
-```
 Post hoc, ergo propter hoc: "for those who see it, therefore because of them"
 Principle of Least Action (P.L.A.): "the goal is the most preferred action"
 Pragmatic approach: "In the real world, we only deal with problems when they become too complex."
@@ -258,12 +250,7 @@ Risk-Reward Ratio: "If you give me something valuable, I will give you something
 Stochastic Analysis: "For each problem, there is an answer; there is no answer to any problem"
 Turing Test: "Machines that can solve the halting problem"
 Principle of Parsimony: "don't over complicate"
-##
-Primacy of Learning: This is a major problem for most educational programs. Students do not usually learn
-what they need to improve and become better problem solvers. Students need to be made aware of
-their limitations and their strengths.
 Occam's Razor: "ignore the unnecessary because they don't change the essence of the problem"
-Nerdy principle #1: "knowledge is power"
 Pareto Optimum: "There is always the best and the worst of everything"
 Pascal's Wager: "if I do not die today, I will probably die tomorrow."
 Principle of Inertia: "the laws of nature are not affected by our intentions"
@@ -275,8 +262,6 @@ Procter & Gamble: "We do not invent our products; we discover them in a market o
 The 80/20 rule: "80% of the things you do will make 20% of the difference in your life."
 Principle of least action: "whatever you can control, control it."
 Principle of Reciprocity: "If you do something for X, you are usually asked for X back"
-Pseudo-scientific theories:
-Post-Neolithic Revolution: "a revolutionary change that occurred in human behavior, society, or religion within 0.5 to 1.0 Mya, occurred around 3500 B.P."
 Pareto Distribution: "in 80% of all cases, 80% of all outcomes occur in 80% of all cases under investigation"
 Pareto Principle: "80% of everything is either the result of 5% of everything or the cause of 5% of anything"
 Post hoc ergo propter hoc: "things happen after we believe we did it"
@@ -306,9 +291,6 @@ Pascal's Triangle: "a triangle of three numbers is a triangle in geometry when a
 Plato's Cave: "A philosopher is one who knows how to find the truth within the limits of his own capacity"
 Law of Primitive Reciprocity: "In most non-zero-sum games, one partner is bound to give more to the other than he expects to get back."
 Law of Conservation of Variables: "For every action, there is an equal and opposite reaction"
-Principle of Conservation of Angular Momentum:
-"If an object is in constant revolution, it will remain in constant revolution while in uniform motion."
-(But be cautious, I've been told some will tell you that doesn't make sense unless you apply it to a person walking on a tightrope)
 Rhode Island School of Design: If it doesn't break, don't try to fix it.
 Principle of Determinism: "there are no accidents"
 Pragmatic Programmer: "pragmatic programmer would rather do a simple task correctly, then do it correctly"
@@ -335,7 +317,6 @@ Law of Accelerating Returns: "the longer you wait between investment opportuniti
 Law of Conservation of Energy: "energy is like money—you never find any. It is either created or destroyed"
 Law of Entropy: "everything is energy and nothing is"
 Pertugo Principle: "people follow procedures instead of ideas"
-Pascal's Wager: "I believe in God, but I'll never be a theist."
 Pratt-Caliastrini Paradox: "A computer can recognize a person in ten seconds by their fingerprints but they cannot recognize each other in ten seconds by their fingerprints."
 Principle of Least Effort: "No one will do what you least expect of them"; "You have to be the best at what you do before you can expect to do it well"
 Social Darwinism: "survival of the fittest"
@@ -377,8 +358,6 @@ Putnam's Law: "If you have an apple and I have an apple and we swap apples, how 
 Principle of Charity: "each individual has a place and a right to happiness"
 Planck's Law of Conformity: "A quantity of matter will always conform to a law of physics"
 Pythagoras's Theorem: "All natural numbers are the sum of two primes"
-##
-Rugby
 Random House's Law of Large Numbers: "Any significant change in the behavior of a sequence of random variables with normal distribution is due to the random variable describing the change in the mean of the sequence."
 Rice's Law: "There are no significant trends"
 The Popperian Fallacy: "All it takes is one little thing to make an otherwise incompetent organization successful"
@@ -393,7 +372,6 @@ Probability theory: "There is a 50:50 chance the coin will land heads. Let's fli
 Random number generator: "I'll flip the coin, and get a number between 0 and 1."
 Pascal's Law: "All mathematical and logical systems are complete nonsense until proven otherwise"
 Rothbard's Law: "The state will never be a good example of the market economy."
-Simpson's Paradox: "More people are killed in car accidents on Monday than on Tuesday"
 Pareto Principle (continued): "roughly 80% of the population has no influence over the outcome of events."
 Patterns, Probability & Statistics: "It is very difficult to prove a negative"
 Roosevelt's Second Law of Life: "As a society becomes larger, it needs stronger government"
@@ -405,7 +383,6 @@ Rationality Principle: "every action has an equal and opposite reaction"
 Hobbes' Leviathan: "no man kills another without cause"
 Pareto Effect: "for every person there are a thousand decisions that nobody cares about"
 Pareto Efficiency: "when 80% of the effects come from 20% of the causes, only about 20% of the causes can be eliminated"
-Post hoc ergo propter hoc: “if A happened then B therefore A caused B”  This was an argument used by the Church to prove that the virgin birth was faked.
 Principle of Sufficient Reason: "You will never find a conclusive argument against a given proposition. You will always be able to find some other proposition which, though less obviously true, is at least as good a reason for believing it"
 Rothbard's Law of Conservation of Resources: "There are only so many resources to go around, and the resources that are in short supply always end up in the hands of the affluent."
 Rothbard's Law of Cycles: "There is no such thing as a free lunch"
@@ -447,7 +424,6 @@ Principle of Least Effort: "The most efficient solution is the one with the leas
 Principle of Maximum Effect: "The effect will vary with the effecter, but the optimal impact usually comes from the least expensive effecter."
 The 80/20 rule: "80 percent of any effect comes from only 20 percent of the causes"
 Pareto dominance: "80% of the effects of any given input come from 20 percent of the things that produce them."
-Popper's Erudite Bias: "those who deny evolution are usually the ones who reject it most vehemently, and for ideological and other reasons"
 Pascal's Wager: "If it is worth doing, it is worth doing well"
 Peirce's Paradox: "The more a proposition is denied, the surer the proof that it is true"
 Pascal's Triangle: "the top 5% of this triangle comes from the top 5% of this triangle, the next 20% of this triangle comes from the next 20% of this triangle, and so on until you run out of space."
@@ -581,8 +557,6 @@ Principle of Least Squares Estimation: "the equation with the least roots is bes
 Law of Effect: "90% of the things that happen in your life, you could have predicted, simply by knowing that something else happened in your life."
 Random Walk: "in a random walk, on average the steps you take are independent of previous steps"
 Pareto Principle (cont.): "less is more"; or "all are equal but some are more equal than others".
-The Law of Demeter:
-"The law of Demeter states that it is more effective to encourage others to do the work than to stop them from doing the work."
 Pentagonal Pile: a pattern found in the universe
 Penny-wise and -foolish: "The fool includes the one who has nothing, and the one who has too much"
 Principle of Least Effort: "The simplest solution is most likely the right one."
@@ -600,8 +574,6 @@ Randall Munroe: "When an issue doesn't seem to have much of an impact, you proba
 Ridiculousness Index: "at least as high as the ridiculousness of the issue at hand"
 Peak/trough model of decision making: "This is a Pareto model. If 80% of people are to be successful, it only makes sense that 20% will be. I mean this the best model for decision making and not for creating a business plan."
 Rice's Law: "the more you eat, the fatter you get."
-
-## Chapter 4: The Three Types of Game
 Game Theory: "a mathematical study of strategic decision making by means of a system of linear equations"
 Game Theory: "games of chance are studied through the lens of game theory"
 The Law of Large Numbers: "The problem of very large populations is roughly solved by the Law of Large Numbers"
@@ -631,7 +603,6 @@ Peirce's Law: It took me a long time to figure out exactly what this means.
 Principle of Least Effort: "The best effort is the one that has least effect on the real goal"
 Parable of the Sower: "What matters most is not who sows the seed but how many seeds we put into the field."
 Priestley's Problem: "The first step in the proof is to consider the problem without attempting to solve it."
-## See also
 Perfecting the Broken: "First you recognize that something is broken; then you figure out how to fix it; and voilà! You have made yourself a part of the solution"
 Principle of Inductive Inference: "It is never a good idea to tell someone they are wrong unless they have been wrong before."
 Pareto Principle: " 80% of outputs come from 20% of inputs"
@@ -745,11 +716,6 @@ Principle of Symmetry: "the outcome of a given action is the same no matter what
 Reinhard's Rule: "it costs the same to go slow and go fast"
 Rice's Paradox: "The world is full of people like you."
 Reversed-Pareto Principle: "80% of the consequences come from 20% of the causes."
-Pascal's Wager: "If there is an evil in the world - and I don't think there is, there are no atheists in it - then it would be better not to exist than to be evil."
-Population pyramid:
-"The bulk of the world rests on a small portion of its surface."
-Powers of Ten:
-"Ten times a ten is a hundred"
 Principle of least action: "actions should be taken that produce the fewest possible side effects"
 Sapolsky's Law: "people will only remember 10% of what you tell them, and the other 90% will have no effect on their decision making process"
 Pareto Optimality: "the 80:20 rule"
@@ -816,7 +782,6 @@ Pareto Principle: "there is always something else you can do to solve the proble
 Turing Test: "you need to feed it some food to make it work"
 Yale Law of Attraction: "be the change you wish to see in the world"
 Turing Test: "if human intelligence is capable of achieving something by a program, then that program should be run on a computer"
-In the words of Mark Twain: "A picture is worth a thousand words"
 Pareto Optimality: "If 80% of a population receives treatment for a disease, then the remaining 20% need not receive treatment."
 Principle of Least Effort: "do less, do it right"
 Principle of Least Effort: "if you don't know exactly what you're doing, doing the wrong thing is the easiest thing in the world"
@@ -901,7 +866,6 @@ Principle of Least Effort: "the most straightforward course is the best one"
 Reed's Laws: "you will make the same mistakes as everyone else"
 Reverse Causality: "When something happens, all the events which preceded it are also changed (or "reverse-caused")"
 Putnam's Conjecture: "The more of something, the more of it is left over"
-Pascal's Wager: "God is a lottery-taker"
 Rigorous Empiricism: "Fancy a theory until you are blue in the face, but use it sparingly"
 Prisoner's Dilemma: "Two prisoners are locked in a cage. One of them is innocent, is guilty, or is somewhere in-between. It is the prisoner's dilemma."
 Principle of Least Commitment: "do the most with the least amount of effort"
@@ -917,8 +881,6 @@ Petitio Principio: "If anything can go wrong it will go wrong"
 Peirce's Law: "If two theories explain the same set of facts, then they are equally valid"
 Pareto Optimality: "a situation that can be improved at no additional cost by making a minor change to one of the factors"
 Randomness without randomness: "unpredictable is in many cases a feature"
-Pascal's Wager: "If you are a gambler, you should always bet on black."
-##
 Pascal's Wager: "If you are a gambler, you should always bet on black."
 Principle of Least Effort: "A small change in direction leads to a large change in outcome"
 Population Growth Law: "80% of the children born will be stupid"
@@ -946,7 +908,6 @@ Principle of least action: "if something doesn't improve the situation, do somet
 Principle of thumb: "if something must be done, do it with an 80% chance of success"
 Principle of unity: "if it's too difficult to do one thing, do it in many small ways"
 Pareto Principle: "if you organize enough things into enough buckets, you can pretty much eliminate 80% of all unwanted events"
-Plato's 3 Laws: "Thou shalt not kill," "Thou shalt not steal," and "Thou shalt not bear false witness."
 Principle of Least Squares: "the best statistical predictor is the one whose predictors have the fewest number of degrees of freedom" (used to test regression analyses)
 Principle of least effort: "the cheapest, most efficient, and most effective way to do a job"
 Ramsey's Law: "less than 1% of anything can be done more effectively with an extra 1% of it"
@@ -992,11 +953,6 @@ Stated preference: "When you have a stated preference, you choose what you want 
 Theory of mind: "the ability to attribute mental states to other minds, or to oneself."
 Pareto's Law: "everything that goes in, comes out."
 Pareto Principle 2: "all you know about the world is wrong."
-Principle of least action: "actions should be done in the
-least possible time, and as completely as possible."
-Principle of indeterminacy: "any system of cause and effect
-is incomplete, and is therefore to be understood from the point of view of
-'indeterminacy'."
 Psychological determinism: If something doesn't cause something, then it is caused.
 Principle of Equal Treatment: "It would not be right to treat all people as if they were equally valuable for something"
 Principle of Least Surprise: "If something goes wrong, you expect to see it next week"
@@ -1075,7 +1031,6 @@ Pascal's Wager: "If you bet on yourself, you'll lose. If you bet on not-yet-dete
 Probability calculus: "If your system always does what it is supposed to, what you get is what you deserve."
 Popper's Theorem: "all experiments are designed to verify a single hypothesis"
 Post hoc err non dico (after-the-fact-I-don't-think-so): "after-the-fact reasoning is not proof"
-Russell's Paradox: "We cannot prove the existence of God."
 Principle of least effort: "If you work as hard as necessary, you'll get as little done as possible"
 Principle of Indifference: "the more you don't care, the more it matters"
 Principle of Reciprocity: "you are only as happy as your least important neighbour"
@@ -1142,7 +1097,6 @@ Reflection time: "the total time which elapses between the initial cause and the
 Principle of Least Action: "the fastest way to do something is to do nothing"
 Reality distortion field: "if something looks like data, it is usually data, and if it appears to be a pattern, that's a pattern, but if it's just noise, then it's just noise."
 Repairman's Paradox: "the rate of repair is always greater than the rate of deterioration."
-Robbins' Equation: "robbing Peter to pay Paul"
 Principle-following model: "If you don't have a lot of information, then start to work backwards from the data you do have."
 Robbins Threshold: "You know what's missing? I can't see the forest for the trees."
 Smith's Paradox: "if you throw a die repeatedly, what proportion of the time does it end up with a face showing?"
